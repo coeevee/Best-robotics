@@ -36,3 +36,4 @@ int motorspeed1;
 		motor[serv2]=vexRT[Btn7L]*motorspeed1;
 		motor[serv1]=vexRT[Btn7R]*-motorspeed1;
 		motor[serv2]=vexRT[Btn7L]*motorspeed1;}}
+//date 9/23/24
